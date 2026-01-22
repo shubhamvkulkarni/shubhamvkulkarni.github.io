@@ -1080,7 +1080,7 @@ a {
   }
 }
 .cid-v8V2BEjfuQ {
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/chatgpt-image-jan-22-2026-11-17-38-am-1536x1024.png");
 }
 .cid-v8V2BEjfuQ .mbr-fallback-image.disabled {
   display: none;
@@ -1097,6 +1097,10 @@ a {
 .cid-v8V2BEjfuQ .mbr-section-title {
   color: #ffffff;
 }
+.cid-v8V2BEjfuQ .mbr-text,
+.cid-v8V2BEjfuQ .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-sFGSOnwtIp {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1106,6 +1110,8 @@ a {
 .cid-v8XukiZ2EL {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-v8XukiZ2EL nav.navbar {
   position: fixed;
@@ -1222,8 +1228,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
-  background: rgba(255, 255, 255, 0.7);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #ffffff;
 }
 .cid-v8XukiZ2EL .navbar.opened {
   transition: all 0.3s;
@@ -1531,6 +1537,8 @@ a {
 .cid-v8XukiZ2EL {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-v8XukiZ2EL nav.navbar {
   position: fixed;
@@ -1647,8 +1655,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
-  background: rgba(255, 255, 255, 0.7);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #ffffff;
 }
 .cid-v8XukiZ2EL .navbar.opened {
   transition: all 0.3s;
